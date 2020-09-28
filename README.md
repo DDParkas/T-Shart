@@ -5,8 +5,6 @@ Este foi um trabalho feito na aula de web em 2011.
 Meu primeiro site.Venho evoluindo desde então.
 
 
-Blog: [Árvore da Coruja](http://www.arvoredacoruja.com)
-<!--
 
 _______oBBBBB8o______oBBBBBBB
 _____o8BBBBBBBBBBB__BBBBBBBBB8________o88o,
@@ -28,4 +26,4 @@ _________________8BBBBBBBBBBBBBBBo,
 __________________BBBBBBBBBBBBBBB8,
 __________________BBBBBBBBBBBBBBBB,
 
--->
+
